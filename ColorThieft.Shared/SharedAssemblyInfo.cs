@@ -4,10 +4,10 @@
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("ColorThief")]
+//[assembly: AssemblyTitle("ColorThief")]
 [assembly: AssemblyDescription("A code for grabbing the color palette from an image. Uses C# and .NET to make it happen.")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyProduct("ColorThief.NET")]
+//[assembly: AssemblyConfiguration("")]
+//[assembly: AssemblyProduct("ColorThief.NET")]
 [assembly: AssemblyCopyright("Copyright © K.Semenenko 2016")]
 [assembly: AssemblyCulture("")]
 [assembly: AssemblyTrademark("")]
@@ -23,5 +23,5 @@
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 
-[assembly: AssemblyVersion("1.1.0.1")]
-[assembly: AssemblyFileVersion("1.1.0.1")]
+//[assembly: AssemblyVersion("1.1.0.1")]
+//[assembly: AssemblyFileVersion("1.1.0.1")]
